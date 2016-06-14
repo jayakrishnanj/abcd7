@@ -1,0 +1,4 @@
+name = Drupal Module Behat Travis
+description = Module template.
+package = Demo
+core = 7.x
